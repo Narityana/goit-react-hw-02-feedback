@@ -19,4 +19,5 @@ Statistics.prototypes = {
   total: PropTypes.number.isRequired,
   positiveFeedback: PropTypes.number.isRequired,
 };
+
 export default Statistics;

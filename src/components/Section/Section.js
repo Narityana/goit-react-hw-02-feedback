@@ -7,7 +7,9 @@ const Section = ({ title, children }) => {
     </div>
   );
 };
+
 Section.prototypes = {
   title: PropTypes.string.isRequired,
 };
+
 export default Section;
